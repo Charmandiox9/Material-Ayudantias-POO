@@ -1,69 +1,83 @@
 # Material-Ayudantias-POO
-En este repositorio podrán encontrar todo el material respecto las ayudantías realizada de Programación Orientada a Objetos
-Bienvenido al repositorio oficial de ayudantías del curso **Programación Orientada a Objetos (POO) en Java** realizadas en el periodo 2025-01/Curso de invierno.
+Este repositorio contiene el material de ayudantías para el curso de **Programación Orientada a Objetos (POO) en Java**, incluyendo ejercicios prácticos, soluciones, diagramas y recursos de apoyo.
 
-Cada semana está dividida en carpetas temáticas, y cada día contiene ejercicios prácticos enfocados en reforzar lo aprendido en clase.
+Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, pero el repositorio está diseñado para incluir futuras ediciones (semestre regular, verano, reforzamiento, etc.).
 
 ---
 
 ## 🗂️ Estructura del Repositorio
-- 📁 Semana_01/
-  - 📁 Dia_01/
-    - 📁 Ejercicio_01/
-      - enunciado.pdf
-      - enunciado.pdf
-      - solucion.java
-    - 📁 Ejercicio_02/
-      - enunciado.pdf
-      - enunciado.md
-      - solucion.java
-  - 📁 Dia_02/
-...
-- 📁 Semana_02/
-- 📁 Semana_03/
+- 📁 Curso_Invierno_2025/
+  - 📁 Semana_01/
+    - 📁 Dia_01/
+      - 📁 Ejercicio_01/
+        - enunciado.pdf
+        - enunciado.pdf
+        - solucion.java
+      - 📁 Ejercicio_02/
+        - enunciado.pdf
+        - enunciado.md
+        - solucion.java
+    - 📁 Dia_02/
+  ...
+  - 📁 Semana_02/
+  - 📁 Semana_03/
+- 📁 Semestre Regular 2025-02
 
 ---
 
-## 📆 Contenidos por semana en el curso de invierno
-### 📘 Semana 1 – Fundamentos de Java e Introducción a POO
-- **Día 1:** Variables, tipos de datos, operaciones básicas
-- **Día 2:** Condicionales y estructuras de control
-- **Día 3:** Funciones y modularidad
-- **Día 4:** Arreglos y matrices
-- **Día 5:** Introducción a clases, objetos y diagramas de clases
+### 📘 Contenidos por semana
 
-### 📗 Semana 2 – POO Intermedia y Colecciones
-- **Día 6:** Referencias, relaciones entre objetos y modelo de dominio
-- **Día 7:** `ArrayList`, `List` y operaciones con colecciones
-- **Día 8:** `LinkedList` y simulaciones de estructuras dinámicas
-- **Día 9:** Herencia, polimorfismo y jerarquías
-- **Día 10:** Interfaces y clases abstractas
+#### 🧱 Semana 1 – Fundamentos de Java e Introducción a POO
+- Día 1: Variables, tipos de datos y operaciones básicas
+- Día 2: Condicionales y ciclos (`if`, `for`, `while`)
+- Día 3: Funciones y modularidad
+- Día 4: Arreglos y matrices
+- Día 5: Introducción a clases y objetos
 
-### 📙 Semana 3 – Patrones de diseño e interfaces gráficas
-- **Día 11:** Patrón Singleton y Factory
-- **Día 12:** Patrón Visitor y Strategy
-- **Día 13:** GUI con Java Swing (introducción)
-- **Día 14:** Proyecto GUI simple (calculadora, agenda, login)
-- **Día 15:** Actividad integradora y repaso general
+#### 🧩 Semana 2 – POO Intermedia y Colecciones
+- Día 6: Referencias, agregación y modelo de dominio
+- Día 7: Colecciones (`ArrayList`, `List`)
+- Día 8: `LinkedList` y estructuras dinámicas
+- Día 9: Herencia y polimorfismo
+- Día 10: Interfaces y clases abstractas
+
+#### 🎯 Semana 3 – Patrones de diseño e interfaces gráficas
+- Día 11: Patrón Singleton y Factory
+- Día 12: Patrón Visitor y Strategy
+- Día 13: Introducción a Swing (GUI)
+- Día 14: Proyecto GUI (agenda, login, calculadora)
+- Día 15: Actividad integradora y repaso general
 
 ---
 
 ## 📄 Contenido de cada ejercicio
 
-Cada carpeta de ejercicio incluye:
+Cada ejercicio se encuentra en su propia carpeta e incluye:
 
 - `enunciado.md`: Descripción del problema y objetivos.
-- `solucion.java`: Implementación propuesta de la solución.
-- `datos.txt`: (opcional) Archivo con datos de entrada para pruebas.
+- `solucion.java`: Código de solución en Java.
+- `datos.txt`: (opcional) Datos de prueba o entrada.
 - `diagrama.png` / `diagrama.drawio`: (si aplica) Diagrama de clases o flujo.
 
 ---
 
-## 🧑‍🏫 Autor
+## 🛠️ Organización futura del repositorio
 
-- Ayudante: **Don Tito**
-- Curso: Programación Orientada a Objetos en Java – Intensivo
+Este repositorio puede crecer incluyendo ayudantías de otras ediciones:
+
+- 📁 `Curso_Verano_202X/`
+- 📁 `Semestre_Regular_202X/`
+- 📁 `Talleres_Extra/`
+
+Cada curso tendrá su propio subdirectorio con la misma estructura de semanas, días y ejercicios.
 
 ---
 
+## 🙋 Autor
+
+- Ayudante responsable: **Don Tito**
+- Universidad: [Nombre de la Universidad]
+- Curso: Programación Orientada a Objetos en Java
+
+---
 
