@@ -23,7 +23,15 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
   - 📁 Semana_03/
 - 📁 Semestre Regular 2025-02
 - README.md
+
 ---
+
+## ❄️ Curso Intensivo de Invierno – 2025
+
+### 📅 Duración
+- **3 semanas** (lunes a viernes)
+- **14 sesiones** de ayudantía
+- Cada clase dura **1 hora y media**, se realizarán en el **bloque x**
 
 ### 📘 Contenidos por semana
 
