@@ -1,5 +1,5 @@
 # Material-Ayudantias-POO
-Este repositorio contiene el material de ayudantías para el curso de **Programación Orientada a Objetos (POO) en Java**, incluyendo ejercicios prácticos, soluciones, diagramas y recursos de apoyo.
+Este repositorio contiene el material de ayudantías para el curso de **Programación Orientada a Objetos (POO)**, incluyendo ejercicios prácticos, soluciones, diagramas y recursos de apoyo.
 
 Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, pero el repositorio está diseñado para incluir futuras ediciones (semestre regular, verano, reforzamiento, etc.).
 
@@ -22,7 +22,7 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
   - 📁 Semana_02/
   - 📁 Semana_03/
 - 📁 Semestre Regular 2025-02
-
+- README.md
 ---
 
 ### 📘 Contenidos por semana
@@ -76,8 +76,8 @@ Cada curso tendrá su propio subdirectorio con la misma estructura de semanas, d
 ## 🙋 Autor
 
 - Ayudante responsable: **Don Tito**
-- Universidad: [Nombre de la Universidad]
-- Curso: Programación Orientada a Objetos en Java
+- Universidad: [Universidad Católica del Norte]
+- Curso: Programación Orientada a Objetos
 
 ---
 
