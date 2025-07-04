@@ -59,12 +59,6 @@ Cada carpeta de ejercicio incluye:
 
 ---
 
-## 📌 Contribuciones
-
-Este repositorio puede ser extendido con más ejercicios, soluciones alternativas y mejoras en la documentación. ¡Pull requests son bienvenidos!
-
----
-
 ## 🧑‍🏫 Autor
 
 - Ayudante: **Don Tito**
