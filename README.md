@@ -7,20 +7,20 @@ Cada semana está dividida en carpetas temáticas, y cada día contiene ejercici
 ---
 
 ## 🗂️ Estructura del Repositorio
-📁 Semana_01/
-  📁 Dia_01/
-    📁 Ejercicio_01/
-    - enunciado.pdf
-    - enunciado.pdf
-    - solucion.java
-    📁 Ejercicio_02/
-    - enunciado.pdf
-    - enunciado.md
-    - solucion.java
-  📁 Dia_02/
+- 📁 Semana_01/
+  - 📁 Dia_01/
+    - 📁 Ejercicio_01/
+      - enunciado.pdf
+      - enunciado.pdf
+      - solucion.java
+    - 📁 Ejercicio_02/
+      - enunciado.pdf
+      - enunciado.md
+      - solucion.java
+  - 📁 Dia_02/
 ...
-📁 Semana_02/
-📁 Semana_03/
+- 📁 Semana_02/
+- 📁 Semana_03/
 
 ---
 
