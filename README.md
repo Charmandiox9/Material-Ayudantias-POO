@@ -11,7 +11,7 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
     - 📁 Dia_01/
       - 📁 Ejercicio_01/
         - enunciado.pdf
-        - enunciado.pdf
+        - enunciado.md
         - solucion.java
       - 📁 Ejercicio_02/
         - enunciado.pdf
