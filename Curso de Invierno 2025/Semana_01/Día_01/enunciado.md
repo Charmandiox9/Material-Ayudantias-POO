@@ -2,10 +2,9 @@
 
 ## 📝 Descripción
 
-Escriba un programa que simule un sistema electoral, deben ingresar uno por uno el voto al candidato elegido y definir el ganador.
-
 Ejemplo:
 > Eres el encargado de supervisar una elección en una pequeña comunidad. Los votantes ingresan sus votos uno a uno por consola. Tu programa debe contar los votos y declarar al ganador al final.
+Escriba un programa que simule un sistema electoral, deben ingresar uno por uno el voto al candidato elegido y definir el ganador.
 
 ## 🎯 Objetivos
 
@@ -35,10 +34,9 @@ Ganador: candidato1
 
 ## 📝 Descripción
 
-Escriba un programa que simule un juego de adivinanzas, debe incluir un puntaje y por cada intento la dificultad debe incrementar.
-
 Ejemplo:
 > Eres un amante de las adivinanzas, y quieres ver lo que te demoras en ganar un juego de adivinanzas.
+Escriba un programa que simule un juego de adivinanzas, por cada intento la dificultad debe incrementar.
 
 ## 🎯 Objetivos
 
@@ -79,10 +77,9 @@ Número adivinado!
 
 ## 📝 Descripción
 
-Escriba un programa que simule un sensor ambiental, se deben ingresar temperaturas y clasificarlas como frías, templadas o calidad. Además, deberán registrar la temperatura mayor, menor y promedio. 
-
 Ejemplo:
-> Eres el encargado de supervisar una elección en una pequeña comunidad. Los votantes ingresan sus votos uno a uno por consola. Tu programa debe contar los votos y declarar al ganador al final.
+> Eres un trabajador de la DMC (Dirección Meteorológica de Chile). El sensor de la estación va dándote temperaturas, las cuales se deben clasificar, además de anotar los registros históricos.
+Escriba un programa que simule un sensor ambiental, se deben ingresar temperaturas y clasificarlas como frías, templadas o calidas. Además, deberán registrar la temperatura mayor, menor y promedio. 
 
 ## 🎯 Objetivos
 
@@ -91,18 +88,26 @@ Ejemplo:
 
 ## 📥 Entrada
 
-- candidato1
-- candidato2
-- candidato1
+- 32
+- -70
+- 15
 
 ## 📤 Salida esperada
 
 Mostrar resultados por consola.
 
-Votos:
-- candidato1: 3 votos
-- candidato2: 1 voto
+Temperaturas:
+- frías: 1
+- templadas: 2
+- calidas: 2
 
-Ganador: candidato1
+Registros historicos:
+- Temperatura promedio: -7.67°
+- Temperatura mínima: -70°
+- Temperatura máxima: 32°
 
 ---
+
+🕓 **Dificultad estimada**: Baja 
+📚 **Contenidos relacionados**: Variables, condicionales y ciclos.
+🗂️ **Ayudantía**: Día 1 – Lunes
