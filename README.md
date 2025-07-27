@@ -37,25 +37,6 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
 
 #### 🧱 Semana 1 – Fundamentos de Java e Introducción a POO
 <<<<<<< Updated upstream
-- Día 1: Variables, tipos de datos y operaciones básicas
-- Día 2: Condicionales y ciclos (`if`, `for`, `while`)
-- Día 3: Funciones y modularidad
-- Día 4: Arreglos y matrices
-- Día 5: Introducción a clases y objetos
-
-#### 🧩 Semana 2 – POO Intermedia y Colecciones
-- Día 6: Referencias, agregación y modelo de dominio
-- Día 7: Colecciones (`ArrayList`, `List`)
-- Día 8: `LinkedList` y estructuras dinámicas
-- Día 9: Herencia y polimorfismo
-- Día 10: Interfaces y clases abstractas
-
-#### 🎯 Semana 3 – Patrones de diseño e interfaces gráficas
-- Día 11: Patrón Singleton y Factory
-- Día 12: Patrón Visitor y Strategy
-- Día 13: Introducción a Swing (GUI)
-- Día 14: Proyecto GUI (agenda, login, calculadora)
-- Día 15: Actividad integradora y repaso general
 =======
 - Día 1: Nivelación
 - Día 2: Intro POO-Referencias
