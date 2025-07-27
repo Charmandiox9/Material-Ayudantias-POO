@@ -36,8 +36,7 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
 ### 📘 Contenidos por semana
 
 #### 🧱 Semana 1 – Fundamentos de Java e Introducción a POO
-<<<<<<< Updated upstream
-=======
+
 - Día 1: Nivelación
 - Día 2: Intro POO-Referencias
 - Día 3: Colecciones (`ArrayList`, `LinkedList`, `List`)
@@ -55,7 +54,6 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
 - Día 11: Trabajo en proyectos
 - Día 12: Repaso Prueba
 - Día 13: Repaso Prueba
->>>>>>> Stashed changes
 
 ---
 
