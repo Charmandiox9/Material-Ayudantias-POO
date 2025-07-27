@@ -30,12 +30,13 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
 
 ### 📅 Duración
 - **3 semanas** (lunes a viernes)
-- **14 sesiones** de ayudantía
-- Cada clase dura **1 hora y media**, se realizarán en el **bloque x**
+- **13 sesiones** de ayudantía
+- Cada clase dura **1 hora y media**, se realizarán en el **bloque D**
 
 ### 📘 Contenidos por semana
 
 #### 🧱 Semana 1 – Fundamentos de Java e Introducción a POO
+<<<<<<< Updated upstream
 - Día 1: Variables, tipos de datos y operaciones básicas
 - Día 2: Condicionales y ciclos (`if`, `for`, `while`)
 - Día 3: Funciones y modularidad
@@ -55,6 +56,25 @@ Actualmente, el enfoque principal está en el **Curso Intensivo de Invierno**, p
 - Día 13: Introducción a Swing (GUI)
 - Día 14: Proyecto GUI (agenda, login, calculadora)
 - Día 15: Actividad integradora y repaso general
+=======
+- Día 1: Nivelación
+- Día 2: Intro POO-Referencias
+- Día 3: Colecciones (`ArrayList`, `LinkedList`, `List`)
+- Día 4: Herencia
+- Día 5: Repaso Prueba
+
+#### 🧩 Semana 2 – POO Intermedia y Colecciones
+- Día 6: Herencia
+- Día 7: Interfaces y Arquitectura
+- Día 8: Patrones
+- Día 9: Patrones (UML)
+- Día 10: Trabajo en proyectos
+
+#### 🎯 Semana 3 – Patrones de diseño e interfaces gráficas
+- Día 11: Trabajo en proyectos
+- Día 12: Repaso Prueba
+- Día 13: Repaso Prueba
+>>>>>>> Stashed changes
 
 ---
 
@@ -83,8 +103,12 @@ Cada curso tendrá su propio subdirectorio con la misma estructura de semanas, d
 
 ## 🙋 Autor
 
+<<<<<<< Updated upstream
 - Ayudante responsable: **Don Tito**
 - Universidad: [Universidad Católica del Norte]
+=======
+- Ayudante responsable: **Daniel Durán**
+>>>>>>> Stashed changes
 - Curso: Programación Orientada a Objetos
 
 ---
