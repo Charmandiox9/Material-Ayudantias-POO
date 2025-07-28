@@ -1,0 +1,5 @@
+MAT101,Juan Perez,18,4.5
+MAT101,Maria Lopez,17,2.2
+FIS101,Pedro Silva,19,5.8
+FIS101,Ana Torres,18,6.9
+MAT101,Carlos Ruiz,17,3.5

@@ -1,0 +1,2 @@
+Matemáticas I,MAT101,Prof. Rodriguez
+Física I,FIS101,Prof. Gonzalez

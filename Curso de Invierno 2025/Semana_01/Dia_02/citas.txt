@@ -1,0 +1,4 @@
+Juan Perez,Dr. Rodriguez,09:00,Consulta general
+Maria Lopez,Dr. Gonzalez,10:30,Cardiología
+Pedro Silva,Dr. Rodriguez,14:00,Control
+Ana Torres,Dr. Martinez,16:15,Pediatría
