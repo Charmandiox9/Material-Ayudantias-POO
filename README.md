@@ -82,13 +82,7 @@ Cada curso tendrá su propio subdirectorio con la misma estructura de semanas, d
 
 ## 🙋 Autor
 
-<<<<<<< Updated upstream
-- Ayudante responsable: **Don Tito**
-- Universidad: [Universidad Católica del Norte]
-=======
 - Ayudante responsable: **Daniel Durán**
->>>>>>> Stashed changes
 - Curso: Programación Orientada a Objetos
-
 ---
 
