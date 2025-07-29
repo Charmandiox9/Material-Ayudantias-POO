@@ -76,6 +76,58 @@ PRIORIDAD BAJA:
 
 ---
 
+# 🧪 Ejercicio 3: Sistema de Gestión de Estudiantes
+
+## 📝 Descripción
+Eres el encargado del sistema académico de una universidad y necesitas procesar la información de los estudiantes que está almacenada en un archivo CSV. Tu tarea es crear un programa que lea los datos de los estudiantes, los organice en estructuras de datos apropiadas y genere reportes estadísticos para la administración académica.
+
+## 🎯 Objetivos
+- Implementar lectura y procesamiento de archivos CSV.
+- Utilizar ArrayList para gestionar colecciones de datos.
+- Aplicar conceptos de clases, objetos y referencias.
+- Desarrollar funcionalidades de búsqueda, filtrado y generación de reportes.
+
+## 📥 Entrada
+- Archivo `estudiantes.csv` con el siguiente formato:
+```
+codigo,nombre,edad,carrera,promedio
+EST001,María González,21,Ingeniería Informática,8.5
+EST002,Juan Pérez,22,Administración,7.8
+EST003,Ana López,20,Psicología,9.2
+EST004,Carlos Ruiz,23,Ingeniería Informática,6.9
+EST005,Laura Martín,21,Derecho,8.7
+```
+Cada línea contiene: código del estudiante, nombre completo, edad, carrera y promedio académico.
+
+## 📤 Salida esperada
+- Menú interactivo con opciones:
+
+```
+1. Mostrar todos los estudiantes
+2. Buscar estudiantes por nombre (búsqueda parcial)
+3. Filtrar estudiantes por carrera
+4. Mostrar top 5 de mejores promedios
+5. Generar resumen estadístico
+
+--- RESUMEN DE DATOS ---
+Total de estudiantes: 15
+Promedio general: 8.12
+Edad promedio: 21.8 años
+
+Estudiantes por carrera:
+- Ingeniería Informática: 4
+- Medicina: 3
+- Derecho: 2
+- Psicología: 2
+- Administración: 2
+- Arquitectura: 2
+
+Mejor promedio: Pedro Silva (9.5)
+Menor promedio: Mateo Jiménez (6.5)
+```
+
+---
+
 🕓 Dificultad estimada: Media
 📚 Contenidos relacionados: Arrays, ArrayList, LinkedList, Clases
 🗂️ Ayudantía: Día 3 – Colecciones
