@@ -1,0 +1,5 @@
+Carnívoro,León,8,Sabana,Gacela
+Herbívoro,Conejo,2,Bosque,Hierba
+Omnívoro,Oso,12,Montaña,Peces y Frutas
+Carnívoro,Águila,5,Cielo,Ratones
+Herbívoro,Ciervo,6,Bosque,Hojas
