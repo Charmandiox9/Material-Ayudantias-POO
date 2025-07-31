@@ -58,4 +58,4 @@ Cada línea contiene: CIUDAD,STOCK_MAX,BODEGA_ID
 
 🕓 **Dificultad estimada**: Alta
 📚 **Contenidos relacionados**: Herencia avanzada, polimorfismo, simulación de comportamientos
-🗂️ **Ayudantía**: Día 9 – Herencia, Abstracción y Polimorfismo
+🗂️ **Ayudantía**: Día 5 – Herencia, Abstracción y Polimorfismo
