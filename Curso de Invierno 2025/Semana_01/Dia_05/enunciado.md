@@ -34,7 +34,7 @@ Osorno,150,BODEGA_1
 Cada línea contiene: CIUDAD,STOCK_MAX,BODEGA_ID
 
 ## 📤 Salida esperada
-- Simulación del ecosistema:
+- Menú interactivo con opciones:
 
 ```
 === SISTEMA SUPERMERCADO VIRTUAL ===
