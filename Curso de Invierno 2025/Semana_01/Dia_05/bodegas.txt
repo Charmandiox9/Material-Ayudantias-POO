@@ -1,0 +1,6 @@
+Coquimbo,250,BODEGA_2
+Coquiimbo,250,BODEGA_2
+Santiago,500,BODEGA_0
+Santiago,500,BODEGA_0
+Osorno,150,BODEGA_1
+Osorno,150,BODEGA_1
