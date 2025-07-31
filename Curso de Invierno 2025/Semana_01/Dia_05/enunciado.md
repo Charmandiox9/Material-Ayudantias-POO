@@ -52,7 +52,8 @@ Cada línea contiene: CIUDAD,STOCK_MAX,BODEGA_ID
 - Subclases: `Electrodomestico` (meses garantía, eficiencia energética), `Alimento` (fecha vencimiento, categoría), `Ropa` (talla, material)
 - Clase `Bodega` con lista de productos.
 - Clase `Supermercado` con matriz de bodegas
-- Implementar métodos polimórficos como `mostrarDetalles()`
+- Implementar métodos polimórficos como `mostrarDetalles()` y `calcularPrecioEspecial()`
+- Para los precios especiales: Ropa = (precio * stock) / talla; Alimento = (precio * stock) / mes de vencimiento; Electrodomestico = (precio * stock) / (meses garantía * eficiencia energética).
 
 ---
 
