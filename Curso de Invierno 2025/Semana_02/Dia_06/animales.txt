@@ -1,0 +1,5 @@
+Perro,Firulais,5,Labrador
+Gato,Garfield,3,Persa
+Pez,Nemo,1,Payaso
+Perro,Rex,7,Pastor Alemán
+Gato,Whiskers,2,Siamés
