@@ -1,0 +1,5 @@
+Avión,Boeing 747,200,900
+Murciélago,Vampiro,0.5,50
+Dron,DJI Phantom,2,120
+Avión,Cessna 172,4,180
+Murciélago,Frugívoro,0.3,40
