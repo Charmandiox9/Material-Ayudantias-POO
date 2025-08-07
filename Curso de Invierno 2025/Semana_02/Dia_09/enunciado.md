@@ -72,8 +72,7 @@ Tipo de contribuyente e ingresos anuales.
 1. Calcular impuesto persona natural
 2. Calcular impuesto empresa pequeña
 3. Calcular impuesto gran corporación
-4. Cambiar estrategia de cálculo
-5. Salir
+0. Salir
 ```
 
 ---
@@ -100,7 +99,6 @@ Datos de formas geométricas y tipo de cálculo deseado.
 3. Agregar triángulo
 4. Calcular áreas
 5. Calcular perímetros
-6. Mostrar formas
 0. Salir
 ```
 
