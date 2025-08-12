@@ -1,0 +1,6 @@
+ESTUDIANTE,USR001,Juan Perez,juan.perez@universidad.cl,2024-01-15,PREMIUM,12345,Universidad Nacional,Ingenieria Informatica
+ESTUDIANTE,USR002,Maria Lopez,maria.lopez@universidad.cl,2024-02-10,BASICO,12346,Universidad Nacional,Medicina
+PROFESOR,PRF001,Dr. Roberto Silva,roberto.silva@universidad.cl,2023-05-20,PREMIUM,Ciencias Computacionales,Inteligencia Artificial,EMP001
+PROFESOR,PRF002,Dra. Carmen Torres,carmen.torres@universidad.cl,2022-08-15,PREMIUM,Medicina,Cardiologia,EMP002
+GENERAL,GEN001,Luis Gonzalez,luis.gonzalez@gmail.com,2024-03-01,BASICO,Ingeniero de Software,Tecnologia;IA;Programacion
+GENERAL,GEN002,Sofia Mendez,sofia.mendez@hotmail.com,2024-04-05,PREMIUM,Doctora,Medicina;Investigacion;Ciencia
